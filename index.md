@@ -1,1 +1,1 @@
-**Operating Systems**: <kbd>SHIFT</kbd><kbd>A</kbd>
+**Operating Systems**: <kbd>Linux<\kbd><kbd>Windows<\kbd><kbd>MacOS<\kbd>
